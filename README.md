@@ -3,7 +3,7 @@
   
   some bot stuff, some asm stuff, some reveng stuff <img width=15 src="https://i.imgur.com/cha9mPI.png"></img>
   
-  <img align="center" width=15 src="https://i.imgur.com/1DR7kNS.png"></img> vanflux#8707
+  <table><tr><td valign="center"><img valign="center" width=15 src="https://i.imgur.com/1DR7kNS.png"></img> vanflux#8707</td></tr></table>
 </div>
 
 <p align="center">
