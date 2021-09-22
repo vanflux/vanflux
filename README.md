@@ -2,6 +2,8 @@
   <b>Welcome to my profile</b>
   
   some bot stuff, some asm stuff, some reveng stuff <img width=15 src="https://i.imgur.com/cha9mPI.png"></img>
+  
+  <img align="center" width=15 src="https://i.imgur.com/1DR7kNS.png"></img> vanflux#8707
 </div>
 
 <p align="center">
