@@ -8,7 +8,7 @@
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=vanflux&custom_title=Vanflux%20Stats&theme=dark&show_icons=true&count_private=true&line_height=20&include_all_commits=true&hide=issues"></img> -->
-  <img src="https://svg.vanflux.dev/profile-stats.svg"></img>
+  <img src="https://profile-stats.vanflux.dev/profile-stats.svg"></img>
 </p>
 
 <div align="left">
